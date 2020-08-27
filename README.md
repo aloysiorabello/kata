@@ -6,5 +6,3 @@ Projeto proposto como atividade na disciplina Teste de Software no Programa de P
 Funcionalidades:
 
 OddEvenPrime - Classifica em inteiro entre número primo, par ou ímpar.
-
-sillyPascal - Classifica se uma String pode ou não ser um identificador Silly Pascal.
