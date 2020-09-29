@@ -1,0 +1,4 @@
+{
+  "git.ignoreLimitWarning": true,
+  "god.tsconfig": "./tsconfig.json"
+}
