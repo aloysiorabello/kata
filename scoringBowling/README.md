@@ -1,3 +1,3 @@
-# typescript-base
+# scoringBowling TS TDD KATA @aloysiorabello
 
-Base typescript project with all necessary dependencies.
+Scoring Bowling Kata in TypeScript.

@@ -1,10 +1,10 @@
 {
-  "name": "typescript-base",
+  "name": "typescript-bowling-kata",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -19,11 +19,9 @@
     "eslint-plugin-standard": "^4.0.1",
     "git-commit-msg-linter": "^2.4.4",
     "husky": "^4.2.5",
-    "jest": "^26.4.0",
+    "jest": "^26.4.2",
     "lint-staged": "^10.2.11",
+    "ts-jest": "^26.3.0",
     "typescript": "^3.9.7"
-  },
-  "dependencies": {
-    "@types/jest": "^26.0.14"
   }
 }
