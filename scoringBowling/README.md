@@ -1,3 +1,3 @@
-# scoringBowling TS TDD KATA @aloysiorabello
+# scoringBowling #TS #TDD #KATA #JEST
 
-Scoring Bowling Kata in TypeScript.
+Scoring Bowling Kata in TypeScript and Jest.
